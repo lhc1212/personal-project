@@ -1,21 +1,21 @@
 import React from 'react';
 import './App.css';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom"
-import Home from './Home';
+import Banner from "./Banner"
 
 function App() {
   return (
     <div className="app">
+
+      <Banner />
+
       <Router>
         <Switch>
           <Route path="/big-bang">
 
           </Route>
           <Route path="/religous">
-
-          </Route>
-          <Route exact path="/">
-            <Home />
+            <App />
           </Route>
         </Switch>
       </Router>

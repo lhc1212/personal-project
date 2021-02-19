@@ -1,0 +1,36 @@
+.banner {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy-xG4_psTKbQsaTvDXIq_qeSyF0bg0pfQ9A&usqp=CAU");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.banner__question > h1 {
+    position: absolute;
+    font-weight: 500;
+    left: 25%;
+    color: lightblue;
+    animation-name: question;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes question {
+    0% {top: -50px}
+    100% {top: 20%}
+}
+
+.banner__message > h2 {
+    position: absolute;
+    top: 30%;
+    color: lightgrey;
+    font-weight: 500;
+    animation-name: message;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes message {
+    0% {right: -1000px}
+    100% {right: 100px;}
+}

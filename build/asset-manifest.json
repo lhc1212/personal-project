@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/how-did-the-universe-begin/static/css/main.8fd997ed.chunk.css",
+    "main.js": "/how-did-the-universe-begin/static/js/main.da22d2df.chunk.js",
+    "main.js.map": "/how-did-the-universe-begin/static/js/main.da22d2df.chunk.js.map",
+    "runtime-main.js": "/how-did-the-universe-begin/static/js/runtime-main.68a27ba8.js",
+    "runtime-main.js.map": "/how-did-the-universe-begin/static/js/runtime-main.68a27ba8.js.map",
+    "static/js/2.fc20f365.chunk.js": "/how-did-the-universe-begin/static/js/2.fc20f365.chunk.js",
+    "static/js/2.fc20f365.chunk.js.map": "/how-did-the-universe-begin/static/js/2.fc20f365.chunk.js.map",
+    "static/js/3.0c7f908b.chunk.js": "/how-did-the-universe-begin/static/js/3.0c7f908b.chunk.js",
+    "static/js/3.0c7f908b.chunk.js.map": "/how-did-the-universe-begin/static/js/3.0c7f908b.chunk.js.map",
+    "index.html": "/how-did-the-universe-begin/index.html",
+    "static/css/main.8fd997ed.chunk.css.map": "/how-did-the-universe-begin/static/css/main.8fd997ed.chunk.css.map",
+    "static/js/2.fc20f365.chunk.js.LICENSE.txt": "/how-did-the-universe-begin/static/js/2.fc20f365.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68a27ba8.js",
+    "static/js/2.fc20f365.chunk.js",
+    "static/css/main.8fd997ed.chunk.css",
+    "static/js/main.da22d2df.chunk.js"
+  ]
+}
